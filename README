@@ -1,0 +1,3 @@
+quick and dirty hack to inspect the SLP files in a DRS file
+
+all paths are hardcoded (in the .pro file to genieutils, and in widget.cpp to the drs files). so if you for some reason want to try this you need to adjust those.
